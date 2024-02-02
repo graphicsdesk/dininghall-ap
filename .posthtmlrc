@@ -7,12 +7,114 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia Dining has implemented a series of changes intended to address widespread student discontent regarding dining hall experience following post-pandemic wait times and seating capacity issues."
+          },
+          {
+            "type": "text",
+            "value": "Columbia Dining increased its student seating capacity by 84 percent from fall 2021 to fall 2023 by opening five new dining halls, bringing the student-to-seat ratio from 9-to-1 in 2021 to 6-to-1 in 2023. In addition, Columbia Dining increased meal swipes on Plan D and Plan C, the meal plans with the lowest number of swipes; Plan D now offers 100 meals per term and Plan C offers 150 meals per term, leading to price increases of $500 and $800 respectively."
+          },
+          {
+            "type": "text",
+            "value": "Students’ dissatisfaction with the on-campus dining experience became particularly apparent when the University began looking into potentially expanding the undergraduate student body in April 2021. As part of the <a href=\"https://www.columbiaspectator.com/news/2022/03/10/marred-by-politics-factions-in-expansion-inquiry-see-different-columbias/\">expansion inquiry</a>, the Core and student life expansion working group, which falls under the University Senate student affairs committee, identified the lack of dining hall space as an example of a broader space issue at the University and a priority for expansion in its 2022 final report."
+          },
+          {
+            "type": "text",
+            "value": "The working group pointed to a 2021 Columbia College Student Council survey, in which 52 percent of respondents reported dissatisfaction with wait times to enter a dining hall, 66 percent reported dissatisfaction with wait times to get food, and 75 percent said they were often unable to readily find a seat."
+          },
+          {
+            "type": "text",
+            "value": "The improved student-to-seat ratio of 6-to-1 still falls behind Columbia’s peer institutions, based on data cited in the 2022 Core and student life expansion working group report. Yale University, the University of Pennsylvania, and Harvard University each reported 2-to-1 student-to-seat ratios, while Brown University reported a 3-to-1 ratio and Dartmouth College reported a 4-to-1 ratio."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "seatwaffleandratio.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“The Dining program is for students and so their experience – whether it’s food, service, or offerings – is always a priority for us,” Vicki Dunn, assistant vice president of Columbia Dining, wrote in a statement to Spectator. “We’ve spent a lot of time listening to student input and looking at ways to reestablish the operation coming out of the pandemic. Based on plan usage and feedback from the student advisory council and fall survey, we believe the steps we’ve taken are the right course. But we will continue to assess and ensure we’re hitting the mark.”"
+          },
+          {
+            "type": "text",
+            "value": "Grace Dodge Dining Hall contributed around 45 percent of the 588 seats provided by the five new dining halls. The dining hall <a href=\"https://www.columbiaspectator.com/arts-and-culture/2023/08/26/columbia-dining-to-take-over-tc-dining-hall-fourth-new-food-hall-since-pandemic/\">opened</a> in Teachers College as a result of a vacancy from a previous third-party food service provider and is open to Teachers College and undergraduate students, according to a Columbia Dining spokesperson."
+          },
+          {
+            "type": "text",
+            "value": "“We’ve heard our Dining Plan Holders ask for more space, more options, and more Columbia Dining, and we’re thrilled to deliver,” Columbia Dining wrote in an announcement about Grace Dodge’s fall 2023 opening."
+          },
+          {
+            "type": "text",
+            "value": "Mila Tabach, BC ’26, said Grace Dodge is her favorite of the five new Columbia dining halls because its food feels more fresh, especially the “real avocados.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "mapofdininghalls.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The expansion of Columbia Dining began with the opening of Faculty House in fall 2021. The Fac Shack, a to-go food truck complementing the nearby sister location, opened in the Wien Hall courtyard in fall 2023."
+          },
+          {
+            "type": "text",
+            "value": "“The team chose the current Indian-inspired menu as a way to offer a menu type not in regular rotation at other dining locations,” a Columbia Dining spokesperson wrote."
+          },
+          {
+            "type": "text",
+            "value": "Chef Mike’s Sub Shop opened in January 2022 in Uris Hall, coinciding with the beginning of the building’s transition from the hub of the Business School to an undergraduate space after the Business School’s move to its current Manhattanville <a href=\"https://www.columbiaspectator.com/news/2022/01/31/business-school-officially-moves-to-manhattanville-campus/\">location</a>."
+          },
+          {
+            "type": "text",
+            "value": "Chef Don’s Pizza Pi, a to-go location in Mudd Hall, opened in spring 2023."
+          },
+          {
+            "type": "text",
+            "value": "“Each location has a core group of staff members, as Dining has expanded locations or hours, staffing has been added,” the Columbia Dining spokesperson wrote. “Staff determine placement and shifts by seniority.”"
+          },
+          {
+            "type": "text",
+            "value": "From September 2023 to October 2023, Fac Shack tracked 11,000 total swipes and Grace Dodge had 18,000. These dining additions helped relieve pressure at existing dining halls; during the same period, John Jay Dining Hall saw a 9 percent decrease in swipes and Chef Mike’s saw a 13 percent decrease."
+          },
+          {
+            "type": "text",
+            "value": "In addition, JJ’s Place <a href=\"https://www.columbiaspectator.com/arts-and-culture/2023/04/06/a-safe-place-at-night-jjs-to-stay-open-22-hours-a-day-7-days-a-week/\">resumed</a> overnight 22-hour service in fall 2023, following three academic years of reduced hours. The late-night location saw a 14 percent increase in swipes from 2022 to 2023."
+          },
+          {
+            "type": "text",
+            "value": "According to the Columbia Dining spokesperson, the Columbia Dining program is funded by the price of dining plans, which now includes Teachers College dining plan holders."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Emily Forgash can be contacted at </i><a href=\"mailto:emily.forgash@columbiaspectator.com\"><i>emily.forgash@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/ForgashEmily\"><i>@ForgashEmily</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior Staff Writer John Towfighi can be contacted at </i><a href=\"mailto:john.towfighi@columbiaspectator.com\"><i>john.towfighi@columbiaspectator.com</i></a><i>. Follow him on X </i><a href=\"https://twitter.com/johntowfighi\"><i>@JohnTowfighi.</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Ana Pekec can be contacted at </i><a href=\"mailto:ana.pekec@columbiaspectator.com\"><i>ana.pekec@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on my </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Columbia Dining adds five new dining halls, changes meal plan options following widespread student dissatisfaction",
+        "date": "February 1, 2024",
+        "byline": "By Emily Forgash, John Towfighi. Graphics by Ana Pekec.",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TGVYP5Y4PVH67OLLT54TDT7RCQ.jpg",
+        "cover_caption": "Frances Cohen / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1HDRbXvfxvGHfOvnm--kdv443uHjJ1tXcJBnvFGlJGLI/edit"
       }
     }
   }
